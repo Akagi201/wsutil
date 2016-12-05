@@ -22,3 +22,7 @@ _testmain.go
 *.exe
 *.test
 *.prof
+/client/client
+/dump/dump
+/proxy/proxy
+
